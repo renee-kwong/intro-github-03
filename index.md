@@ -1,4 +1,6 @@
+Fun stuff :joy:
+
 ---
-title: Welcome to my blog
+Title: Welcome to my fun blog
 ---
 
